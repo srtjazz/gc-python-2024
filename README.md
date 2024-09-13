@@ -41,7 +41,7 @@ Resposta: Monty Python and the Holy Grail
 ```
 Qual planeta eu nasci? ❌
 ```
-Resposta: Possivelmente a Terra 
+Resposta: Exemplo errado 
 ```
 Qual meu tipo de pokemon favorito?
 ```
