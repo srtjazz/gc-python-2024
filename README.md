@@ -37,19 +37,19 @@ Responda as perguntas no campo abaixo, que elas são verificadas nas #Segundas.
 
 Qual meu filme favorito? :heavy_check_mark:
 ```
-Resposta: Monty Python and the Holy Grail
+Resposta: Homem-Aranha: Através do Aranhaverso
 ```
-Qual planeta eu nasci? ❌
+Qual planeta eu nasci? :heavy_check_mark:
 ```
-Resposta: Exemplo errado 
+Resposta: Possivelmente na Terra
 ```
-Qual meu tipo de pokemon favorito?
+Qual meu tipo de pokemon favorito? :heavy_check_mark:
 ```
-Resposta:
+Resposta: Psíquico
 ```
-Gosto de cidades populosas, sem ser SP qual outra posso morar?
+Gosto de cidades populosas, sem ser SP qual outra posso morar? :heavy_check_mark:
 ```
-Resposta:
+Resposta: Belo Horizonte
 ```
 
 ...
