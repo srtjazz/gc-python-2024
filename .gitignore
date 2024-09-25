@@ -31,7 +31,6 @@ venv/
 python_env/
 
 # Data files
-*.csv
 *.h5
 *.hdf5
 *.db
