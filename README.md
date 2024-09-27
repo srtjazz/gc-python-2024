@@ -2,7 +2,21 @@
 
 ---
 ## Level
-**Level Atual:** 1
+**Level Atual:** 3
+
+---
+## Feedback exercícios
+
+- **Aula 01:**
+	- **Ex1:** Ok
+	- **Ex2:** Ok, porém uso do map em cenários simples como esse pode complicar desnecessáriamente
+	- **Ex3:** Ok, porém uso do map em cenários simples como esse pode complicar desnecessáriamente
+- **Aula 02:**
+	- **Ex4:** Ok
+	- **Ex5:** Ok
+	- **Ex6:** Ok
+	
+- Geral: faça os exercícios em arquivos diferentes
 
 ---
 ## Conquistas
