@@ -1,0 +1,51 @@
+id_livro,titulo,autor,ano_publicacao,genero
+1,Cracking the Coding Interview,Natalie Hayes,1992,Algoritmos
+2,Cracking the Coding Interview,Brittany Paul,1998,Engenharia de Software
+3,You Don’t Know JS,Ronald Forbes,2007,Programação
+4,Effective Java,Laurie Fisher,1992,Ciência da Computação
+5,Introduction to Algorithms,Carl Carson II,2020,Ciência da Computação
+6,The Mythical Man-Month,Sarah Peterson,2011,Engenharia de Software
+7,You Don’t Know JS,Vanessa Holt,2000,Engenharia de Software
+8,The Mythical Man-Month,Kenneth Velez,2003,Ciência da Computação
+9,The Mythical Man-Month,Maureen Taylor,1993,Engenharia de Software
+10,Introduction to Algorithms,Tracy Branch,2008,Algoritmos
+11,Cracking the Coding Interview,Michael Reynolds,2017,Programação
+12,Code Complete,Francis Bonilla,2016,Algoritmos
+13,Code Complete,William Medina,2009,Programação
+14,Code Complete,Vanessa Porter,1997,Ciência da Computação
+15,Effective Java,Amanda Stephenson,2015,Engenharia de Software
+16,The Mythical Man-Month,James Black,1992,Engenharia de Software
+17,Code Complete,Brianna Rose,2021,Ciência da Computação
+18,The Pragmatic Programmer,Amy Davis,2000,Algoritmos
+19,Code Complete,Andrew Williams,2010,Engenharia de Software
+20,Effective Java,Amy Robinson,2014,Engenharia de Software
+21,Design Patterns,Albert Simmons,2010,Algoritmos
+22,Code Complete,Daniel Torres,2022,Ciência da Computação
+23,Design Patterns,Billy Brewer,1996,Ciência da Computação
+24,Clean Code,Amanda Russell,2003,Engenharia de Software
+25,You Don’t Know JS,Kyle Graham,1997,Programação
+26,Code Complete,Ashley Becker,1994,Programação
+27,Python Crash Course,Samuel Green,1999,Algoritmos
+28,Introduction to Algorithms,Kevin Francis,2020,Programação
+29,The Pragmatic Programmer,Thomas Jackson,2018,Ciência da Computação
+30,Design Patterns,Kristina Wilkinson,2021,Programação
+31,The Pragmatic Programmer,Suzanne Romero,2004,Algoritmos
+32,Refactoring,Sean Carroll,2023,Algoritmos
+33,Refactoring,Jennifer Hawkins,1998,Engenharia de Software
+34,Code Complete,Juan Lewis,2018,Engenharia de Software
+35,Design Patterns,Melissa French,2004,Programação
+36,Head First Design Patterns,Alan Smith,2009,Ciência da Computação
+37,Refactoring,Kimberly Webb,2021,Engenharia de Software
+38,The Mythical Man-Month,Terrence Barrett,2019,Programação
+39,Code Complete,Jennifer Wallace,1994,Algoritmos
+40,The Mythical Man-Month,Dalton Meadows,2009,Algoritmos
+41,Cracking the Coding Interview,Thomas Mcdaniel,1998,Algoritmos
+42,The Pragmatic Programmer,Amy Berg,2018,Engenharia de Software
+43,Cracking the Coding Interview,Christopher Patton,2015,Algoritmos
+44,Python Crash Course,Steven Wood,2016,Algoritmos
+45,Design Patterns,Robert Rice,1993,Engenharia de Software
+46,Introduction to Algorithms,Eric Crawford,2011,Ciência da Computação
+47,Design Patterns,Steven Lyons,2023,Algoritmos
+48,Design Patterns,Samuel Long,1991,Engenharia de Software
+49,You Don’t Know JS,Dylan Barnes,2006,Algoritmos
+50,Code Complete,Sandra Greer,2006,Programação
